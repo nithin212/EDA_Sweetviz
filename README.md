@@ -4,7 +4,7 @@
 ##### Link to proper explanation about Sweetviz : https://www.youtube.com/watch?v=D4fHn4lHCmI&t=292s
 ##### How to install sweetviz library : - !pip install --user sweetviz or pip install sweetviz
 
-###### I have attcehd three files in this repository.
+###### I have attached three files in this repository.
 
 ###### 1. SweetvizLibrary.ipynb file this has the python code showing how analysis can be done using sweetviz library. 
 ###### 2. Report.html this has the report about report about train data.
